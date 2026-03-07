@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash-jha-818" alt="aakash-jha-818" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,C,Node Js,React js, Python**
+- 🌱 I’m currently learning **MERN STACK + DSA**
 
 - 📫 How to reach me **aakashjha819@gmail.com**
 
