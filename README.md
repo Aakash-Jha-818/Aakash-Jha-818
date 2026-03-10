@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 BCA Student passionate about **Software Development**
+* 🎓 Tech Student passionate about **Software Development**
 * 🌱 Currently learning **MERN Stack & Data Structures**
 * 💡 Interested in **Competitive Programming**
 * 💻 Love building **real-world projects**
