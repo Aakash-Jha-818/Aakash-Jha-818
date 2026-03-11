@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Jha</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer | DSA | Tech Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;React+Enthusiast;Competitive+Programmer;Always+Learning+New+Things&center=true&width=500&height=45">
@@ -16,7 +16,7 @@
 
 * 🎓 Tech Student passionate about **Software Development**
 * 🌱 Currently learning **MERN Stack & Data Structures**
-* 💡 Interested in **Competitive Programming**
+* 💡  Love Solving **real world problems through code**
 * 💻 Love building **real-world projects**
 * 🚀 Goal: Become a **skilled Full Stack Developer**
 
@@ -89,7 +89,6 @@
 ## 🚀 Featured Projects
 
 ⭐ Spotify Web App
-⭐ React UI Components
 ⭐ Portfolio Website
 
 ---
