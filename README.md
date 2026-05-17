@@ -51,7 +51,7 @@
 ## ⚡ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,python,git,github,tailwind,typescript,axios,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,python,git,github,tailwind,typescript,java,npm,c,netlify,vercel,postman,stackoverflow,sublime" />
 </p>
 
 ---
